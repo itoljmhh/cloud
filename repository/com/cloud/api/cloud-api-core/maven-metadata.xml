@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.cloud.api</groupId>
+  <artifactId>cloud-api-core</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180823092235</lastUpdated>
+  </versioning>
+</metadata>
